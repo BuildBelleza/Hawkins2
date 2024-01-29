@@ -1,0 +1,23 @@
+{
+  "name": "hawkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Hawkins"
+  },
+  "keywords": [
+    "tile",
+    "install",
+    "natural",
+    "stone",
+    "bathroom",
+    "gallery"
+  ],
+  "author": "Camilla Wilson",
+  "license": "ISC"
+}
